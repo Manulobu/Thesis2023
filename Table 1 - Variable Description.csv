@@ -1,0 +1,17 @@
+Variable,Description
+year,year of analysis.
+adm1,"Geoadministrative boundarie level 1. In the case of Chile, the level is Region."
+adm3,"Geoadministrative boundarie level 3. In the case of Chile, the level is 'comuna', and it is equivalent to a city or municipality."
+adm1-adm3,An abbreviation of city and the respective region it belongs to.
+code_comuna,"Code to individualize cities, provided by GeoQuery."
+logqfirms,Number of registered firms with sales by city expressed in log.
+sales,"Annual sales of micro, small and medium firms by city in UF expressed in log"
+labour,Total number of people employed by micro and small enterprises by city.
+rank_qfirms,Ranking of number of firms by city.
+rank_sales,Ranking of sales by city.
+rank_labour,Rank of employment provided by sales of micro and small companies by city.
+rank_sercotec,Ranking of Sercotec subsidies by city.
+rank_bdd,Ranking of BDD subsidies by city.
+rank_add,Ranking of ADD subsidies by city.
+COORD_X,Longitude.
+COORD_Y,Latitude.
